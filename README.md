@@ -6,7 +6,7 @@ This project is a machine learning powered NBA game prediction system designed t
 
 The goal of this project is to accurately predict the winner of NBA games using recent team performance, advanced statistical features, and real-time injury data scraping.
 
-This system was built from the ground up with an emphasis on:
+This system was built with an emphasis on:
 
 - Real-world feature engineering
 - API data extraction and cleaning
